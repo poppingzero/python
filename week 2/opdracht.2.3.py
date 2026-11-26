@@ -1,0 +1,5 @@
+﻿getal = input("geef een getal")
+nummer = input("geef nog een getal")
+getal = int(getal)
+nummer = int(nummer)
+print (f"je getallen zijn {getal} en {nummer}")
